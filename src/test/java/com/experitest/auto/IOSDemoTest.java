@@ -11,6 +11,6 @@ public class IOSDemoTest extends TestBase {
 
     @Test(groups = "all")
     public void test() {
-
+        Steps.click(null,null,context);
     }
 }
